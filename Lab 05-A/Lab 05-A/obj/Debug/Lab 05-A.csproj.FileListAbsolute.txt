@@ -1,0 +1,5 @@
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 05\Lab 05-A\Lab 05-A\obj\Debug\Lab 05-A.csproj.AssemblyReference.cache
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 05\Lab 05-A\Lab 05-A\obj\Debug\Lab_05_A.Form1.resources
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 05\Lab 05-A\Lab 05-A\obj\Debug\Lab_05_A.Properties.Resources.resources
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 05\Lab 05-A\Lab 05-A\obj\Debug\Lab 05-A.csproj.GenerateResource.cache
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 05\Lab 05-A\Lab 05-A\obj\Debug\Lab 05-A.csproj.CoreCompileInputs.cache
